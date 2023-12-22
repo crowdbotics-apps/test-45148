@@ -5,7 +5,7 @@ export const globalOptions = {
   "screenOptions": {
     "headerShown": false
   },
-  "initialRoute": "AddNewMember"
+  "initialRoute": "Welcome"
 };
 export const modulesOptions = {
   "@modules/app-menu": {
